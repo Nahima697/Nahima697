@@ -5,7 +5,7 @@
 
 
 - 🔭 Actuellement je travailles sur https://github.com/Nahima697/Ng-pokemon-app.git => [Projet Angular Pokemon](https://github.com/Nahima697/Ng-pokemon-app.git)
-- 🌱 Je suis une formation de développeuse Web avec Human Booster ![Human Booster](https://humanbooster.com/wp-content/uploads/2021/04/HEADER_1440x845-GM-DEGRADE-NB-e1622206986946.png){width=128px height=128px}
+- 🌱 Je suis une formation de développeuse Web avec Human Booster ![Human Booster](https://humanbooster.com/wp-content/uploads/2021/04/HEADER_1440x845-GM-DEGRADE-NB-e1622206986946.png =128x)
 
 
 ## Ma personnalité
