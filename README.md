@@ -34,7 +34,7 @@ Mon Git va donc évoluer tout au long de cette année et de ma vie de développe
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
-[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=FF0000)](https://angular.io/)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=#DD0031)](https://angular.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
