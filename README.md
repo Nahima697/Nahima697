@@ -4,7 +4,7 @@
 ** Hey Bienvenue dans mon GitHub --Nahima697/Nahima697** c'est un  ✨ honneur de vous présentez mon travail et mon évolution dans mon apprentissage ✨ 
 
 
-- 🔭 Actuellement je travailles sur [Projet Angular Pokemon](https://github.com/Nahima697/Ng-pokemon-app.git)
+- 🔭 Actuellement je travailles sur [MarKetplace : stack Symfony/Angular](https://github.com/Nahima697/businessCase)
 - 🌱 Je suis une formation de développeuse Web avec [Human Booster](https://humanbooster.com/programmes/developpeur-web-et-web-mobile/) 
 
 
