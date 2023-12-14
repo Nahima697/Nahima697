@@ -5,13 +5,13 @@
 
 
 - 🔭 Actuellement je travailles sur [MarKetplace : stack Symfony/Angular](https://github.com/Nahima697/businessCase)
-- 🌱 Je suis une formation de développeuse Web avec [Human Booster](https://humanbooster.com/programmes/developpeur-web-et-web-mobile/) 
+- 🌱 Je viens de terminer ma formation de développeuse Web avec [Human Booster](https://humanbooster.com/programmes/developpeur-web-et-web-mobile/) 
 
 
 ## Ma personnalité
 
 -  Mon nom de scène, je n'en ai pas encore car mon ancien alias n'est plus à jour ou du moins ne correspond pas à mon activité actuelle. 😄
-- ⚡Je me suis découverte une passion pour le développement web sur le tard. J'entames donc un parcours de reconversion, et pour le moment c'est l'éclate total! J'aime apprendre, braver les difficultés et trouver des solutions aux problèmes. Le parcours sera long et semé d'embuche, mais je suis prête!*
+- ⚡Je me suis découverte une passion pour le développement web sur le tard. J'ai terminé ma formation de développeur web et web mobile je souhaites poursuivre l'aventure. J'aime apprendre, braver les difficultés et trouver des solutions aux problèmes. Le parcours sera long et semé d'embuche, mais je suis prête!*
 Mon Git va donc évoluer tout au long de cette année et de ma vie de développeuse. Soyez-indulgents!
 
 
