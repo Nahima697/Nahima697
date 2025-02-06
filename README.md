@@ -26,8 +26,6 @@ Mon Git va donc évoluer tout au long de cette année et de ma vie de développe
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
 [![Bulma](https://img.shields.io/badge/-Bulma-000?&logo=Bulma&logoColor=#00d1b2)](https://bulma.io/)
-
-## Languages et outils en cours d'apprentissage
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=#6528e0)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
